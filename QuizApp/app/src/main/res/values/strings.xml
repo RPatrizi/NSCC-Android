@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="options">Choose the best answer for the definition below:</string>
+    <string name="pickOne">Select only one of the options below:</string>
+    <string name="yourScore">Your final score is:</string>
+    <string name="nextQuestion">Next Question</string>
+    <string name="restartQuiz">Restart Quiz</string>
+    <string name="quitApp">Quit Application</string>
+</resources>

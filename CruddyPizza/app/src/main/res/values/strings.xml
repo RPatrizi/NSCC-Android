@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">CruddyPizza</string>
+    <string name="topping1">Topping 1</string>
+    <string name="topping2">Topping 2</string>
+    <string name="topping3">Topping 3</string>
+    <string name="size">Pizza Size</string>
+    <string name="english">English</string>
+    <string name="portuguese">Portuguese</string>
+    <string name="welcome">Welcome to Cruddy Pizza</string>
+    <string name="chooseOrder">Please choose from below options</string>
+    <string name="editOrder">Please edit below options</string>
+    <string name="customerInfo">Please enter customer details</string>
+    <string name="editCustInfo">Please edit customer details</string>
+    <string name="name">Name</string>
+    <string name="custPhone">Phone Number</string>
+    <string name="custAddress">Address</string>
+    <string name="edit">Load Orders</string>
+    <string name="viewOrders">View Orders</string>
+    <string name="submit">Submit Order</string>
+    <string name="save">Save Order</string>
+    <string name="delete">Delete Order</string>
+    <string name="back">New Order</string>
+
+    <string-array name="english">
+        <item>Welcome to Cruddy Pizza</item> // 0
+        <item>Please enter customer details</item> // 1
+        <item>Please edit customer details</item> // 2
+        <item>Name</item> // 3
+        <item>Phone Number</item> // 4
+        <item>Address</item> // 5
+        <item>Please choose from below options</item> // 6
+        <item>Please edit below options</item> // 7
+        <item>Pizza Size</item> // 8
+        <item>Topping 1</item> // 9
+        <item>Topping 2</item> // 10
+        <item>Topping 3</item> // 11
+        <item>Submit Order</item> // 12
+        <item>View Orders</item> // 13
+        <item>Load Orders</item> // 14
+        <item>New Order</item> // 15
+        <item>Delete Order</item> // 16
+        <item>Save Order</item> // 17
+    </string-array>
+
+    <string-array name="portuguese">
+        <item>Bem Vindo a Cruddy Pizza</item> // 0
+        <item>Favor incluir detalhes do cliente</item> // 1
+        <item>Favor editar detalhes do cliente</item> // 2
+        <item>Nome</item> // 3
+        <item>Telefone</item> // 4
+        <item>Endereço</item> // 5
+        <item>Favor escolher opções abaixo</item> // 6
+        <item>Favor editar opções abaixo</item> // 7
+        <item>Tamanho Pizza</item> // 8
+        <item>Ingrediente 1</item> // 9
+        <item>Ingrediente 2</item> // 10
+        <item>Ingrediente 3</item> // 11
+        <item>Enviar Pedido</item> // 12
+        <item>Ver Pedidos</item> // 13
+        <item>Carregar Pedidos</item> // 14
+        <item>Novo Pedido</item> // 15
+        <item>Deletar Pedido</item> // 16
+        <item>Salvar Pedido</item> // 17
+    </string-array>
+
+    <string-array name="sizeEng">
+        <item> </item> // 0
+        <item>Small</item> // 1
+        <item>Medium</item> // 2
+        <item>Large</item> // 3
+        <item>Extra Large</item> // 4
+    </string-array>
+
+    <string-array name="toppingEng">
+        <item> </item> // 0
+        <item>Beef</item> // 1
+        <item>Pepperoni</item> // 2
+        <item>Ham</item> // 3
+        <item>Bacon</item> // 4
+        <item>Chicken</item> // 5
+        <item>Mushroom</item> // 6
+        <item>Onion</item> // 7
+        <item>Olives</item> // 8
+    </string-array>
+
+    <string-array name="sizePt">
+        <item> </item> // 0
+        <item>Pequena</item> // 1
+        <item>Media</item> // 2
+        <item>Grande</item> // 3
+        <item>Extra Grande</item> // 4
+    </string-array>
+
+    <string-array name="toppingPt">
+        <item> </item> // 0
+        <item>Carne</item> // 1
+        <item>Pepperoni</item> // 2
+        <item>Presunto</item> // 3
+        <item>Bacon</item> // 4
+        <item>Frango</item> // 5
+        <item>Cogumelo</item> // 6
+        <item>Cebola</item> // 7
+        <item>Azeitona</item> // 8
+    </string-array>
+</resources>

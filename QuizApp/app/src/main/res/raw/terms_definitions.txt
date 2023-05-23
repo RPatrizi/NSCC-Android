@@ -1,0 +1,10 @@
+This represents a single screen with a user interface$$$Activity
+The library where components such as Activity and AlertDialog are defined$$$App
+This supplies structured access to data managed by the application$$$Content Provider
+This is a data structure that maps identifying values, known as keys, to associated values$$$Hash Table Or Hash Map
+You can use these to start activities, services, and broadcast receivers$$$Intent
+A file describing the contents, permissions and other attributes of an Android application package$$$Manifest
+This includes tools developers use to create applications for Android OS based phones, and other devices$$$SDK
+The library where components such as Random and List are defined$$$Util
+The library where components such as OnClickListener are defined$$$View
+The library where components such as Button and TextView are defined$$$Widget
